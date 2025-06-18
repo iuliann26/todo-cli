@@ -1,5 +1,16 @@
 # To Do CLI
+teste te
 
+ds
+ad
+sa
+dsa
+dsa
+d
+as
+das
+ad
+s
 Un manager simplu de task-uri care funcționează în terminal.
 
 ## Comenzi
