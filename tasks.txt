@@ -1,2 +1,3 @@
-invata git
-scrie readme
+
+Aici se face iar un test.
+ 2892e28 (Aici se face un test pentru un commit nou)
